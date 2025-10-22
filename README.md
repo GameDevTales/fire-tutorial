@@ -1,5 +1,5 @@
 My Tutorial https://www.youtube.com/watch?v=Z1KtA90bTnE&list=PLUN-6crvJMTk8d0gFUoGpxtthS-hHZY75  
-My puzzle platformer https://talesdenorie.itch.io/drag-n-loop  
+My free puzzle platformer game for Windows https://talesdenorie.itch.io/drag-n-loop  
   
 Noise Texture (Perlin) - click to download raw file  
 FREE https://github.com/GameDevTales/fire-tutorial/blob/main/NoiseTexture.zip  
